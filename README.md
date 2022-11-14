@@ -28,6 +28,5 @@
 - 기타
   - [이제는 함수형 프로그래밍을 공부해야 할 때](https://myeongjae.kim/blog/2020/10/10/now-is-the-time-for-studying-functional-programming)
   - [명령 질의 책임 분리의(Command Query Responsibility Segregation, CQRS)의 근본을 찾아서](https://myeongjae.kim/blog/2022/02/03/fundamental-cqrs)
-  - []
 - Optional
   - Node.js로 객체지향 이해하기. [Node.js 모노레포 튜토리얼 (with 객체지향 프로그래밍)](https://nodejs.myeongjae.kim)
